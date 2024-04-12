@@ -10,8 +10,7 @@
 ## Entendendo as Tags HTML utilizadas
 
   ### Div
-  
-	<div> - A div é utilizada para agrupar elementos como na nossa aplicação.
+	div - A div é utilizada para agrupar elementos como na nossa aplicação.
 
   ```html
   <div class="container-card" data-aos="zoom-in-left">
