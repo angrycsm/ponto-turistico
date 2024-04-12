@@ -28,9 +28,9 @@
   ```
 
   ### H1 e P
-  <h1> - nada mas é do que um título é o título maior da página, assim como existem H2, H3 e vai até o H6 sendo o menor título.
+  h1 - nada mas é do que um título é o título maior da página, assim como existem H2, H3 e vai até o H6 sendo o menor título.
 
-  <p> - É um parágrafo
+  p - É um parágrafo
 
 
   **Exemplos**
